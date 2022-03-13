@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeContacts>
+    <EmployeeContact id = "121" team="IT Operations" role="Developer" status="Contractor">
+        <FirstName>John</FirstName>
+        <LastName>Smith</LastName>
+        <EmailAddress>jsmith@gmail.com</EmailAddress>
+        <CellPhone>111-333-4444</CellPhone>
+    </EmployeeContact>
+    <EmployeeContact id = "124" team="IT Operations" role="Developer" status="Full Time Employee">
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <EmailAddress>jdoe@gmail.com</EmailAddress>
+        <CellPhone>111-543-1234</CellPhone>
+    </EmployeeContact>
+    <EmployeeContact id = "125" team="Human Resources" role="Manager" status="Full Time Employee">
+        <FirstName>Jane</FirstName>
+        <LastName>Doe</LastName>
+        <EmailAddress>janed@gmail.com</EmailAddress>
+        <CellPhone>111-463-8583</CellPhone>
+    </EmployeeContact>
+    <EmployeeContact id = "126" team="Finance" role="Director" status="Full Time Employee">
+        <FirstName>Jimmy</FirstName>
+        <LastName>Lovine</LastName>
+        <EmailAddress>jimmy.lovine@gmail.com</EmailAddress>
+        <CellPhone>111-234-9367</CellPhone>
+    </EmployeeContact>
+</EmployeeContacts>

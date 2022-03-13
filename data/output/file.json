@@ -1,0 +1,30 @@
+[
+ {
+  "name" : "John Smith",
+  "email" : "jsmith@gmail.com",
+  "phone" : "111-333-4444",
+  "designation" : "Developer",
+  "team" : "IT Operations"
+},
+ {
+  "name" : "John Doe",
+  "email" : "jdoe@gmail.com",
+  "phone" : "111-543-1234",
+  "designation" : "Developer",
+  "team" : "IT Operations"
+},
+ {
+  "name" : "Jane Doe",
+  "email" : "janed@gmail.com",
+  "phone" : "111-463-8583",
+  "designation" : "Manager",
+  "team" : "Human Resources"
+},
+ {
+  "name" : "Jimmy Lovine",
+  "email" : "jimmy.lovine@gmail.com",
+  "phone" : "111-234-9367",
+  "designation" : "Director",
+  "team" : "Finance"
+}
+]
